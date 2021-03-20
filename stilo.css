@@ -1,0 +1,25 @@
+/* css document */
+body{ font-size: small;
+	background-color: #9a16ef;
+	background-image: url("imagen/paisaje-rosado-primavera.jpg");
+	background-repeat: no-repeat;
+	background-image: fixed;
+	background-image: center;
+	background-size: cover;
+	
+ }
+ h1 {
+ 	background: #8c1dd5; color:#061a30;text-align: center;
+ 	font-size: 35px;
+}
+p {background-color: #a838f1; 
+	font-size: 35px;
+	border: #9e6bbf  8px outset;
+	text-transform: capitalize;
+	
+}
+
+
+ 	
+
+ 
